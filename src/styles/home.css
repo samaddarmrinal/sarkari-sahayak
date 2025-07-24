@@ -1,0 +1,16 @@
+.hero {
+  background-color: #004080;
+  color: white;
+  padding: 2rem;
+}
+.login-box {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+.features {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}

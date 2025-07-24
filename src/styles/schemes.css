@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+.profile-card, .schemes {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+.scheme-card {
+  background: #f0f5ff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid #001b5e;
+  cursor: pointer;
+}
+.voice-controls {
+  margin-bottom: 1rem;
+}
